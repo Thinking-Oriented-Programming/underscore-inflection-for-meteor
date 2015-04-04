@@ -1,0 +1,1 @@
+a simple wrapper of Underscore.inflection.js 1.0.0
